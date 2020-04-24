@@ -3,8 +3,7 @@
 # By Wickend OmniStack 11.0
 # 
 # Instructor: Diego Fernades
-#
-# Roketseat https://rocketseat.com.br/
+# Comunity: Roketseat https://rocketseat.com.br/
 
 Skills:
 
@@ -12,4 +11,5 @@ Skills:
 * JavaSript;
 * Expo;
 * ReactNative;
+
 
